@@ -1,7 +1,6 @@
 /*
  
-ICS3U1
-Ms. Karasinska
+
 Sami Shahid
 June 16, 2023
 Description:
